@@ -24,7 +24,7 @@ import java.util.Map;
 public class WearCommandsService extends WearableListenerService {
 
     private GoogleApiClient mGoogleApiClient;
-    private String API_KEY = "YOUR_API_KEY_GOES_HERE";
+    private String API_KEY = "hk3Y9UPkRTf6RQFWOpRLtE3JoZl8zplVrqmibv0NCr2";
     private String triggerPhrase = "https://maker.ifttt.com/trigger/";
     private String postTriggerPhrase = "/with/key/";
 
